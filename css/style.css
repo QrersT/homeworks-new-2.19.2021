@@ -1,0 +1,67 @@
+#triangle1 {
+  width: 0px;
+  height: 0px;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 70px solid red;
+  transform: translate(50px, 50px) scale(2);
+}
+#triangle2 {
+  width: 0px;
+  height: 0px;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-top: 70px solid red;
+  transform: translate(300px, -20px) scale(2);
+}
+#triangle3 {
+  width: 0px;
+  height: 0px;
+  border-left: 90px solid greenyellow;
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+  transform: translate(600px, -100px) scale(1.7);
+}
+
+#triangle4 {
+  width: 0px;
+  height: 0px;
+  border-right: 90px solid greenyellow;
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+  transform: scale(1.8) translate(450px, -110px);
+}
+#triangle5{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-bottom: 50px solid yellow;
+    border-left: 50px solid yellow;
+    transform: scale(1.5) translate(50px);
+
+}
+#triangle6{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-bottom: 50px solid yellow;
+    border-right: 50px solid yellow;
+    transform: translate(300px,-100px) scale(1.5);
+}
+
+#triangle7{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-left: 50px solid blue;
+    border-top: 50px solid blue;
+    transform: scale(1.5) translate(400px,-130px);
+}
+#triangle8{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-top: 50px solid blue;
+    border-right: 50px solid blue;
+    transform: translate(800px,-290px) scale(1.5);
+  }
