@@ -1,0 +1,10 @@
+ul>:first-child{
+    color: red;
+}
+ul>:last-child{
+    color: green;
+    font-style: italic;
+}
+h1:first-of-type{
+    margin-left: 10px;
+}
