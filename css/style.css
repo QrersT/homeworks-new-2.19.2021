@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+
+}
+.block{
+    position: fixed;
+    background-color: rgb(130, 167, 31);
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    box-shadow: 0 0 0 5px red;
+    border-radius: 40px;
+    /* незнаю как внутренний отступ сделать*/
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.border{
+    
+}
