@@ -1,0 +1,15 @@
+i{
+    color: grey;
+}
+.fa-facebook:hover{
+    color: blue;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-instagram-square:hover{
+    color: pink;
+}
+.fa-pinterest:hover{
+    color: red;
+}
