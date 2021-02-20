@@ -1,0 +1,32 @@
+*{
+    overflow: hidden;
+    margin: 0%;
+    background-color: rgb(75, 75, 75);
+}
+#background{
+    position: absolute;
+    background-color: rgb(119, 119, 119);
+    
+}
+#first{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(119, 119, 119);
+    font-size: 100px;
+    text-shadow: 5px 2px 5px rgb(0, 0, 0);
+    display: inline-block;
+    margin-left: 500px;
+}
+#second{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(119, 119, 119);
+    font-size: 100px;
+    text-shadow: 15px 10px 10px  rgb(0, 0, 0);
+    display: inline-block;
+    margin-top: 300px;
+    margin-left: 100px;
+
+}
